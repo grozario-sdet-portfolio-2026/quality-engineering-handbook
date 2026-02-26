@@ -73,6 +73,10 @@ quality-engineering-handbook/
 │   ├── metrics-logging-tracing.md        (Métricas, Logs e Tracing)
 │   └── post-deployment-monitoring.md     (Monitoramento Pós-Deploy)
 │
+├── 📁 10 - training/                      (Programa de Treinamento)
+│   ├── training-program-overview.md      (Visão Geral do Programa)
+│   └── centralized-documentation-importance.md      (Importância da Documentação Centralizada)
+│
 └── 📁 assets/                             (Diagramas e Recursos)
     └── (Imagens e arquivos de suporte)
 ```
@@ -100,6 +104,11 @@ Comece pela seção [01 - Foundations](./01%20-%20foundations/) para entender os
 ### Para Transformar a Cultura
 - **Qualidade organizacional**: [08 - Culture and Organization](./08%20-%20culture-and-organization/)
 
+### Para Aprender Continuamente
+- **Programa de treinamento**: [10 - Training](./10%20-%20training/)
+- **Pílulas mensais, QA Week, Pair Programming**: Veja [Training Program Overview](./10%20-%20training/training-program-overview.md)
+- **Por que documentação centralizada importa**: [Por Que Documentação Centralizada de Qualidade é Crítica](./10%20-%20training/centralized-documentation-importance.md)
+
 ---
 
 ## 💡 Principais Tópicos
@@ -113,6 +122,7 @@ Comece pela seção [01 - Foundations](./01%20-%20foundations/) para entender os
 | **Medição** | Métricas, DORA, Maturidade | Medir progresso e impacto |
 | **Cultura** | Ownership, Colaboração | Criar mentalidade de qualidade na equipe |
 | **Produção** | Observabilidade, Monitoramento | Manter qualidade pós-deploy |
+| **Aprendizado** | Programa de Treinamento | Desenvolver e manter conhecimento de qualidade |
 
 ---
 
@@ -127,7 +137,12 @@ Comece pela seção [01 - Foundations](./01%20-%20foundations/) para entender os
 │
 ├─ Semana 7-8: Medição e Cultura (07, 08)
 │
-└─ Semana 9+: Observabilidade e Prática (09, aplicar conhecimento)
+├─ Semana 9-10: Observabilidade e Produção (09)
+│
+└─ Semana 11+: Treinamento Contínuo (10, aplicar conhecimento)
+   └─ Participar de Pílulas Mensais
+   └─ Assistir QA Week
+   └─ Pair Programming com Especialistas
 ```
 
 ---
@@ -161,6 +176,10 @@ Este é um documento vivo. Contribuições são bem-vindas!
 **09 - Observability**
 - [🚀 Post-Deployment Monitoring](./09%20-%20observability/post-deployment-monitoring.md) - Proteger produção
 
+**10 - Training**
+- [🎓 Training Program Overview](./10%20-%20training/training-program-overview.md) - Programa estruturado de aprendizado
+- [📚 Por Que Documentação Centralizada](./10%20-%20training/centralized-documentation-importance.md) - Importância de centralizar conhecimento
+
 ---
 
 ## ⚡ Quick Links
@@ -173,6 +192,8 @@ Este é um documento vivo. Contribuições são bem-vindas!
 | Setup CI/CD | [Test Pipelines](./06%20-%20ci-cd-and-automation/test-pipelines.md) |
 | Medir maturidade | [Test Maturity Model](./07%20-%20metrics-and-maturity/test-maturity-model.md) |
 | Monitorar produção | [Post-Deployment Monitoring](./09%20-%20observability/post-deployment-monitoring.md) |
+| Envolver-se em treinamento | [Training Program](./10%20-%20training/) |
+| Entender importância da documentação | [Documentação Centralizada](./10%20-%20training/centralized-documentation-importance.md) |
 
 ---
 
